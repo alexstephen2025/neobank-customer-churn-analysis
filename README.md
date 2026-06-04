@@ -5,6 +5,8 @@
 📋 1. Executive Summary
 NeoBank is facing a critical retention crisis, losing 20.37% of its overall customer base. However, a deeper multi-dimensional analysis reveals that this churn is not random. The bank is systematically bleeding its highest-value clients: older, wealthier customers based in Germany who hold multiple financial products. By isolating geographic anomalies, analyzing product-holding correlations, and mapping customer demographics, this project identifies critical service gaps and provides automated data-driven recommendations to stabilize the bank's core revenue segments.
 
+![NeoBank Tableau Dashboard](tableau_dashboard.png)
+
 🔍 2. Deep-Dive Findings & SQL Evidence
 📍 Finding A: The Multi-Product Paradox
 The Insight: While standard banking strategies dictate that cross-selling more products increases customer "stickiness," NeoBank experiences the exact opposite. Customers with 3 products exhibit an 82.71% churn rate, while 100% of customers with 4 products leave the bank.
@@ -58,3 +60,5 @@ Based on the intersection of our Tableau dashboards and SQL deep dives, NeoBank 
 🇩🇪 German Market Intervention Taskforce: Since 42.85% of German clients leave after purchasing their first product, local leadership must audit regional welcome offers, onboarding customer service, and localized competitor interest rates to identify why high-balance European clients reject the bank early on.
 
 🎯 Premium Loyalty Shield for Age Bracket 40-50: The average age of churning clients is 44.8 with high net worth ($91k+ balances). Introduce a targeted "Premium Diamond Tier" retention program offering competitive yield rates on high-balance savings accounts to lock down capital before users exit.
+
+
